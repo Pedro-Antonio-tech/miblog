@@ -9,3 +9,4 @@ se elimino la llave ssh
 y tambien se elimino llave ssh en github
 
 se agregaran las llaves ssh
+se creo la llave sshgit
