@@ -5,3 +5,4 @@ soy de colombia y estudie en la universidad
 estamos realizando los cambios para aprender a crear una llave segura con ssh 
 estos son los cambios realizados en la rama cambios 
 se elimino la llave ssh
+y tambien se elimino llave ssh en github
